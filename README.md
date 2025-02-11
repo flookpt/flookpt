@@ -1,5 +1,5 @@
 # Hi 👋, I'm Pongpisut Tupwong
-🔭I am studying at King Mongkut's Institute of Technology Latkrabang, majoring in Information Technology with a specialization in IT Infrastructure, School of Information Technology.<br>
+🔭I am studying at King Mongkut's Institute of Technology Ladkrabang, majoring in Information Technology with a specialization in IT Infrastructure, School of Information Technology.<br>
 
 
 # 💻 Tech Stack:
